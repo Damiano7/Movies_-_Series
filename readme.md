@@ -10,25 +10,25 @@
 
 * Máxima duración según tipo de film (película o serie), por plataforma y por año: El request será:
 
-```
+```python
 get_max_duration(anio, plataforma, [min o season])
 ```
 
 * Cantidad de películas y series (separado) por plataforma. El request será:
 
-```
+```python
 get_count_plataform(plataforma)
 ```
 
 * Cantidad de veces que se repite un género y plataforma con mayor frecuencia del mismo. El request será:
 
-```
+```python
 get_listedin(genero)
 ```
 
 * Actor que más se repite según plataforma y año. El request será:
 
-```
+```python
 get_actor(plataforma, año)
 ```
 

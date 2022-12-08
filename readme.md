@@ -356,3 +356,5 @@ def get_actor(year: int, platform: str):
 ```
 
 ![1670509295895](image/readme/1670509295895.png)
+
+[![VIDEO](http://img.youtube.com/vi/UgJRnhlPj9M/0.jpg)](http://www.youtube.com/watch?v=UgJRnhlPj9M "Proyecto: FastAPI + Entorno Virtual Dockerizado")
